@@ -1,0 +1,2 @@
+# Tradexassignment
+Assignment for Internship
